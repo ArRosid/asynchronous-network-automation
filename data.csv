@@ -1,0 +1,4 @@
+ip;username;password
+192.168.1.10;cisco1;cisco1
+192.168.1.20;cisco2;cisco2
+192.168.1.30;cisco3;cisco3
